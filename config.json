@@ -1,29 +1,29 @@
 {
-  "serverName": "Rnn:Fivem",
-  "description": "Rnn:Fivem The Five Boroughs Inspired Loading Screen!",
-  "discordUrl": "https://discord.gg/pSD8mb5wKW",
+  "serverName": "City Of Demons",
+  "description": "City OF Demons😈",
+  "discordUrl": "https://discord.gg/MP4nrXVfVd"
   "tebexUrl": "Your Url Here",
 
   "discordCard": {
     "title": "DISCORD SERVER",
-    "description": "Rnn:Fivem The Five Boroughs Inspired Loading Screen!",
-    "url": "https://discord.gg/pSD8mb5wKW"
+    "description": "City Of Demons Discord",
+    "url": "https://discord.gg/MP4nrXVfVd"
   },
 
   "team": [
     {
-      "name": "Rnn",
+      "name": "kadoicfmf",
       "role": "Founder",
-      "avatar": "https://cdn.discordapp.com/attachments/1248055512411406387/1510423511339106385/Rnn.png?ex=6a240343&is=6a22b1c3&hm=bd6804b2ba068c15360facbd0352d48aba6f04aee42267f349073a12342e48a2&"
+      "avatar": "https://cdn.discordapp.com/attachments/1503708000328745002/1515320597331185674/image.png?ex=6a2e93c7&is=6a2d4247&hm=00f8b888ece90d6ce508a730958e360872dc159b3e2ada773c71057c900114f4&"
     }
   ],
 
   "rules": [
-    "Your Rule's Here",
-    "Your Rule's Here",
-    "Your Rule's Here",
-    "Your Rule's Here",
-    "Your Rule's Here"
+    "Treat everyone with respect in-game and out of character. Harassment, threats, hate speech, sexual harassment, toxicity, leaking personal information, or targeting players is strictly prohibited.",
+    "Remain in character at all times unless staff instructs otherwise. Do not use outside information (Discord calls, Twitch streams, chats, etc) for in-game knowledge.",
+    "No using OOC info in RP. No unrealistic actions, forcing roleplay outcomes, talking while downed, or doing things that give unfair RP advantages.",
+    "No killing, shooting, or attacking players without proper roleplay build-up and escalation. Vehicle deathmatching is strictly forbidden.",
+    "All robberies and scams must be roleplayed. No ATM forcing, no property or vehicle scams, and no robbing inside green zones."
   ],
 
   "gallery": [
@@ -36,10 +36,10 @@
   "music": [
 
         {
-      "title": "Sweater Weather",
-      "artist": "Bloodhound Q50",
-      "cover": "https://cdn.discordapp.com/attachments/1248055512411406387/1512068642110705844/image.png?ex=6a2410a9&is=6a22bf29&hm=0a454bb2cb638c5bb9a5167291c1c58f30b1a2656ab1f97872ab3c4798779eba&",
-      "src": "https://cdn.discordapp.com/attachments/1248055512411406387/1512557330607112262/videoplayback.mp4?ex=6a248649&is=6a2334c9&hm=89386772a6a8855a649d43c1db765d77ec058a5f802cf394d117989d696da845&"
+      "title": "Crashout",
+      "artist": "Mdot59",
+      "cover": "https://cdn.discordapp.com/attachments/1248055512411406387/1515318732467998760/image.png?ex=6a2e920b&is=6a2d408b&hm=38e12e315c591803031ae5f5d55f3841d43efc57cd087bf162b6f22d70292511&",
+      "src": "https://cdn.discordapp.com/attachments/1248055512411406387/1515318471288819732/videoplayback.mp4?ex=6a2e91cc&is=6a2d404c&hm=511e5ac67ce7df041d1648129f9da5fa15e0e26724ed48543a30645e53c1f0d0&"
     },
 
     
@@ -47,65 +47,65 @@
       "title": "All Roads",
       "artist": "TyBando",
       "cover": "https://cdn.discordapp.com/attachments/1248055512411406387/1512579619314729091/image.png?ex=6a249b0b&is=6a23498b&hm=92c838299a4eb76eefb6c98ca8b652314b2687dea168a1fe4724ff11b856db0c&",
-      "src": "https://cdn.discordapp.com/attachments/1248055512411406387/1512581852911632445/TyBando_-_All_Roads_Official_Music_Vide....mp4?ex=6a249d20&is=6a234ba0&hm=0f3ce991ce49372945b559c4dae7d905d172ddc150ad34078e7aeebd59c3bb3f&"
+      "src": "https://cdn.discordapp.com/attachments/1248055512411406387/1515321000311390248/videoplayback_1.mp4?ex=6a2e9427&is=6a2d42a7&hm=e0b6891b81f51e0a09742a81a11c33613f2011e6344f44b5d2de2f982e79d600&"
     },
 
     {
-      "title": "Super Slime",
-      "artist": "Fully Chop",
-      "cover": "https://cdn.discordapp.com/attachments/1248055512411406387/1512586043424116736/image.png?ex=6a24a107&is=6a234f87&hm=6571e9114370cb8d8fafa7bbff895800c02f6e1ac6159b484e46882aac853a35&",
+      "title": "Bones Breaking #LLOOTAB",
+      "artist": "Dotty",
+      "cover": "https://cdn.discordapp.com/attachments/1248055512411406387/1515321076551254067/MOA7yBQ4_cU-HD.jpg?ex=6a2e9439&is=6a2d42b9&hm=d55cb947838ba761e3a8495e83792a8ce18838971e82ba270d34caa7c35392bb&",
       "src": "https://cdn.discordapp.com/attachments/1248055512411406387/1512586824143343667/FullyChop_-_Super_Slime_Official_Vide....mp4?ex=6a24a1c1&is=6a235041&hm=ecc75681ee597daf38966ca1efe5fae3836cba94da0da6f9958da5a024e44285&"
     },
 
     {
-      "title": "On Deck",
-      "artist": "VonOff1700",
-      "cover": "https://cdn.discordapp.com/attachments/1248055512411406387/1512586440024789213/image.png?ex=6a24a165&is=6a234fe5&hm=5a2ec6c2fa58c17b1824bf877561ca57e6cff6d1af424ced635fc60fd59fe0fe&",
-      "src": "https://cdn.discordapp.com/attachments/1248055512411406387/1512586824764231812/VonOff1700_-_On_DeckOfficial_Video_Sh....mp4?ex=6a24a1c1&is=6a235041&hm=edc7618e62c9c043420324c7d226cee74960b7e2b400a91d09dbb31b0b4a6d60&"
+      "title": "Blame The Other Side",
+      "artist": "Pop Kreep",
+      "cover": "https://cdn.discordapp.com/attachments/1248055512411406387/1515321689423216680/7AkSDzgtd_U-HD.jpg?ex=6a2e94cc&is=6a2d434c&hm=5d0162c416bd056e76cab85619a13264c534e40ab4598228aa2a4482ca84583b&",
+      "src": "https://cdn.discordapp.com/attachments/1248055512411406387/1515321690199167066/videoplayback_2.mp4?ex=6a2e94cc&is=6a2d434c&hm=6f4e6a117572f5a95ac8949e30c435e6bc73366067d0c1e4e49e576fbebaa9af&"
     },
 
     {
-      "title": "Fire In The Booth - PT2",
-      "artist": "Northside Benji",
-      "cover": "https://cdn.discordapp.com/attachments/1248055512411406387/1512581900609388564/I_sTCtTrGnI-HD.jpg?ex=6a249d2b&is=6a234bab&hm=9317a2068346cfdb4ce3f018b66a887f07e6ab7f721a7605a1e15e6c7a511bbe&",
-      "src": "https://cdn.discordapp.com/attachments/1248055512411406387/1512581749157269574/NorthSideBenji_-_Fire_In_The_Booth_pt2.mp4?ex=6a249d07&is=6a234b87&hm=75a54eb9e2e3df242befdbd7dbbac68da0765f466ade6ac56431821d83bffee3&"
+      "title": "Eli Manning",
+      "artist": "Jodot Kreep x Pop Kreep x Dotty",
+      "cover": "https://cdn.discordapp.com/attachments/1248055512411406387/1515322111940362270/wb4CJFCcPDA-HD.jpg?ex=6a2e9530&is=6a2d43b0&hm=0967839c3f4885fdd503cb5148a16b0112a9dbbad33bfeb8c24c427aa66b6efd&",
+      "src": "https://cdn.discordapp.com/attachments/1248055512411406387/1515322349904334939/videoplayback_3.mp4?ex=6a2e9569&is=6a2d43e9&hm=8f41a0d7563f8b9ace1080fbb5ead11e25c59a73325b9a3c80b53c1e8d1b65c7&"
     },
 
     {
-      "title": "Song Title",
-      "artist": "Artist Name",
-      "cover": "Cover Url",
-      "src": "Your Video Url Mp4"
+      "title": "Trap House Jumpin",
+      "artist": "Kay Glizz",
+      "cover": "https://cdn.discordapp.com/attachments/1248055512411406387/1515323301394776106/sddefault.png?ex=6a2e964c&is=6a2d44cc&hm=b6c0928bd34f5dc0ba0fa98389e8d0ec31f60e5741adb8c5fe393eedb3e3ee80&",
+      "src": "https://cdn.discordapp.com/attachments/1248055512411406387/1515323275323113584/videoplayback_4.mp4?ex=6a2e9646&is=6a2d44c6&hm=02be7527071dc937ac13c85ec418834dab5c189793a07a210e3d595ed70e5bda&"
     },
 
     {
-      "title": "Song Title",
-      "artist": "Artist Name",
-      "cover": "Cover Url",
-      "src": "Your Video Url Mp4"
+      "title": "Turnt",
+      "artist": "Kado",
+      "cover": "https://cdn.discordapp.com/attachments/1248055512411406387/1515323723958194306/maxresdefault.png?ex=6a2e96b1&is=6a2d4531&hm=928b55e82c2024ccb802909e67f16375821148905ef7f7a8de0a4053b2c31834&",
+      "src": "https://cdn.discordapp.com/attachments/1248055512411406387/1515323775430819860/videoplayback_5.mp4?ex=6a2e96bd&is=6a2d453d&hm=2c7c163d45fb4101cbf1a5e7e923237aa2e1c6c28f2306efce430ff8fa73b163&"
     },
 
     {
-      "title": "Song Title",
-      "artist": "Artist Name",
-      "cover": "Cover Url",
-      "src": "Your Video Url Mp4"
+      "title": "Grinch No Grind",
+      "artist": "Big YAYA",
+      "cover": "https://cdn.discordapp.com/attachments/1248055512411406387/1515325381823955036/maxresdefault.png?ex=6a2e983c&is=6a2d46bc&hm=04f0bb99ad1a9dad220a1a53f11d1f3216cb3dbfe2e7d330413ef37635ffcfab&",
+      "src": "https://cdn.discordapp.com/attachments/1248055512411406387/1515325412320743525/videoplayback_6.mp4?ex=6a2e9843&is=6a2d46c3&hm=f7c62a9762a10f10096c69d24c03e4806eccfe2ecd282c0589d7da9d2bc84d12&"
     },
 
     {
-      "title": "Song Title",
-      "artist": "Artist Name",
-      "cover": "Cover Url",
-      "src": "Your Video Url Mp4"
+      "title": "Hoes Be Mad",
+      "artist": "Cash Cobain & BunnaB",
+      "cover": "https://cdn.discordapp.com/attachments/1248055512411406387/1515325784166891642/maxresdefault.png?ex=6a2e989c&is=6a2d471c&hm=2d50a53feb560fd44991b4cfe6353644efa130e5775ceaf0dbf04cb977389e62&",
+      "src": "https://cdn.discordapp.com/attachments/1248055512411406387/1515325822834180136/videoplayback_7.mp4?ex=6a2e98a5&is=6a2d4725&hm=5545b2c05d2690510b3cb7f47f93024f13e357e3516b6127a08c5ee4bc498ee3&"
     },
 
     
 
     {
-      "title": "Song Title",
-      "artist": "Artist Name",
-      "cover": "Cover Url",
-      "src": "Your Video Url Mp4"
+      "title": "Deuce",
+      "artist": "DudeyLo x ADotFrmDaO",
+      "cover": "https://cdn.discordapp.com/attachments/1248055512411406387/1515326280072036362/maxresdefault.png?ex=6a2e9912&is=6a2d4792&hm=2af7fe2e95a7a2322c20b1306bec4d65c02fc4f00a96cdf2cff37fdd0b4b46d5&",
+      "src": "https://cdn.discordapp.com/attachments/1248055512411406387/1515326315006267402/videoplayback_8.mp4?ex=6a2e991a&is=6a2d479a&hm=2ffad00016e6afb18c5ecc33c9e947e78699d91d7486c0af51f5b98bd66b99df&"
     }
   ]
 }
