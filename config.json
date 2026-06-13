@@ -1,0 +1,42 @@
+{
+  "serverName": "Rnn:Fivem",
+  "description": "Rnn:Fivem Owner Rs.11",
+  "discordUrl": "https://discord.gg/HTPNBr6Fhm",
+  "tebexUrl": "Your Url Here",
+
+  "discordCard": {
+    "title": "DISCORD SERVER",
+    "description": "Rnn The Five Boroughs Inspired Loading Screen",
+    "url": "https://discord.gg/HTPNBr6Fhm"
+  },
+
+  "team": [
+    {
+      "name": "Rnn",
+      "role": "Founder",
+      "avatar": "https://cdn.discordapp.com/attachments/1248055512411406387/1510423511339106385/Rnn.png?ex=6a240343&is=6a22b1c3&hm=bd6804b2ba068c15360facbd0352d48aba6f04aee42267f349073a12342e48a2&"
+    }
+  ],
+
+  "rules": [
+    "Your Rule's Here",
+    "Your Rule's Here",
+  ],
+  "music": [
+
+        {
+      "title": "Sweater Weather Unreleased",
+      "artist": "Bloodhound Q50",
+      "cover": "https://cdn.discordapp.com/attachments/1248055512411406387/1512068642110705844/image.png?ex=6a2410a9&is=6a22bf29&hm=0a454bb2cb638c5bb9a5167291c1c58f30b1a2656ab1f97872ab3c4798779eba&",
+      "src": "https://cdn.discordapp.com/attachments/1248055512411406387/1512557330607112262/videoplayback.mp4?ex=6a248649&is=6a2334c9&hm=89386772a6a8855a649d43c1db765d77ec058a5f802cf394d117989d696da845&"
+    },
+
+    
+    {
+      "title": "ksoo Glock Remix",
+      "artist": "Fullychop",
+      "cover": "https://cdn.discordapp.com/attachments/1248055512411406387/1512568441222074559/image.png?ex=6a2490a2&is=6a233f22&hm=0360c1a7588563d96a025b2f29de47330bf23f869a840302acfaa338705f0317&",
+      "src": "https://cdn.discordapp.com/attachments/1248055512411406387/1512568554522673263/0605.mp4?ex=6a2490bd&is=6a233f3d&hm=340bf9e839501e4085e08c24a0bd3c5b6477d9abf893913b756ed032fce9d93c&"
+    },
+  ]
+}
