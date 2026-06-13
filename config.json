@@ -1,13 +1,13 @@
 {
   "serverName": "Rnn:Fivem",
-  "description": "Rnn:Fivem Owner Rs.11",
-  "discordUrl": "https://discord.gg/HTPNBr6Fhm",
+  "description": "Rnn:Fivem The Five Boroughs Inspired Loading Screen!",
+  "discordUrl": "https://discord.gg/pSD8mb5wKW",
   "tebexUrl": "Your Url Here",
 
   "discordCard": {
     "title": "DISCORD SERVER",
-    "description": "Rnn The Five Boroughs Inspired Loading Screen",
-    "url": "https://discord.gg/HTPNBr6Fhm"
+    "description": "Rnn:Fivem The Five Boroughs Inspired Loading Screen!",
+    "url": "https://discord.gg/pSD8mb5wKW"
   },
 
   "team": [
@@ -21,11 +21,22 @@
   "rules": [
     "Your Rule's Here",
     "Your Rule's Here",
+    "Your Rule's Here",
+    "Your Rule's Here",
+    "Your Rule's Here"
   ],
+
+  "gallery": [
+    "https://cdn.discordapp.com/attachments/1248055512411406387/1511121941162098748/Screenshot_2026-06-01_205225.png?ex=6a23eaba&is=6a22993a&hm=7650b3071096b71abe4712be7222181833c962ab6a2a46d019a4811cb95ca9c6&",
+    "https://cdn.discordapp.com/attachments/1248055512411406387/1509928147749965965/Screenshot_2026-05-29_144639.png?ex=6a24302b&is=6a22deab&hm=5f05a2a5f5576f03a11cc3c024edd4535d3006a23b73535a69e27e28339379e2&",
+    "https://cdn.discordapp.com/attachments/1248055512411406387/1509928148416856315/Screenshot_2026-05-29_123050.png?ex=6a24302b&is=6a22deab&hm=d379e24f5364e3291b8ac0776a3abfe54b83328a71d5ca83dc8ded16a3400343&",
+    "https://cdn.discordapp.com/attachments/1248055512411406387/1509112214055817276/Screenshot_2026-05-19_225114.png?ex=6a248405&is=6a233285&hm=df535037cc805358ef40a8872a5a354230a199d5ca177065ece158b72ba98ab6&"
+  ],
+
   "music": [
 
         {
-      "title": "Sweater Weather Unreleased",
+      "title": "Sweater Weather",
       "artist": "Bloodhound Q50",
       "cover": "https://cdn.discordapp.com/attachments/1248055512411406387/1512068642110705844/image.png?ex=6a2410a9&is=6a22bf29&hm=0a454bb2cb638c5bb9a5167291c1c58f30b1a2656ab1f97872ab3c4798779eba&",
       "src": "https://cdn.discordapp.com/attachments/1248055512411406387/1512557330607112262/videoplayback.mp4?ex=6a248649&is=6a2334c9&hm=89386772a6a8855a649d43c1db765d77ec058a5f802cf394d117989d696da845&"
@@ -33,10 +44,68 @@
 
     
     {
-      "title": "ksoo Glock Remix",
-      "artist": "Fullychop",
-      "cover": "https://cdn.discordapp.com/attachments/1248055512411406387/1512568441222074559/image.png?ex=6a2490a2&is=6a233f22&hm=0360c1a7588563d96a025b2f29de47330bf23f869a840302acfaa338705f0317&",
-      "src": "https://cdn.discordapp.com/attachments/1248055512411406387/1512568554522673263/0605.mp4?ex=6a2490bd&is=6a233f3d&hm=340bf9e839501e4085e08c24a0bd3c5b6477d9abf893913b756ed032fce9d93c&"
+      "title": "All Roads",
+      "artist": "TyBando",
+      "cover": "https://cdn.discordapp.com/attachments/1248055512411406387/1512579619314729091/image.png?ex=6a249b0b&is=6a23498b&hm=92c838299a4eb76eefb6c98ca8b652314b2687dea168a1fe4724ff11b856db0c&",
+      "src": "https://cdn.discordapp.com/attachments/1248055512411406387/1512581852911632445/TyBando_-_All_Roads_Official_Music_Vide....mp4?ex=6a249d20&is=6a234ba0&hm=0f3ce991ce49372945b559c4dae7d905d172ddc150ad34078e7aeebd59c3bb3f&"
     },
+
+    {
+      "title": "Super Slime",
+      "artist": "Fully Chop",
+      "cover": "https://cdn.discordapp.com/attachments/1248055512411406387/1512586043424116736/image.png?ex=6a24a107&is=6a234f87&hm=6571e9114370cb8d8fafa7bbff895800c02f6e1ac6159b484e46882aac853a35&",
+      "src": "https://cdn.discordapp.com/attachments/1248055512411406387/1512586824143343667/FullyChop_-_Super_Slime_Official_Vide....mp4?ex=6a24a1c1&is=6a235041&hm=ecc75681ee597daf38966ca1efe5fae3836cba94da0da6f9958da5a024e44285&"
+    },
+
+    {
+      "title": "On Deck",
+      "artist": "VonOff1700",
+      "cover": "https://cdn.discordapp.com/attachments/1248055512411406387/1512586440024789213/image.png?ex=6a24a165&is=6a234fe5&hm=5a2ec6c2fa58c17b1824bf877561ca57e6cff6d1af424ced635fc60fd59fe0fe&",
+      "src": "https://cdn.discordapp.com/attachments/1248055512411406387/1512586824764231812/VonOff1700_-_On_DeckOfficial_Video_Sh....mp4?ex=6a24a1c1&is=6a235041&hm=edc7618e62c9c043420324c7d226cee74960b7e2b400a91d09dbb31b0b4a6d60&"
+    },
+
+    {
+      "title": "Fire In The Booth - PT2",
+      "artist": "Northside Benji",
+      "cover": "https://cdn.discordapp.com/attachments/1248055512411406387/1512581900609388564/I_sTCtTrGnI-HD.jpg?ex=6a249d2b&is=6a234bab&hm=9317a2068346cfdb4ce3f018b66a887f07e6ab7f721a7605a1e15e6c7a511bbe&",
+      "src": "https://cdn.discordapp.com/attachments/1248055512411406387/1512581749157269574/NorthSideBenji_-_Fire_In_The_Booth_pt2.mp4?ex=6a249d07&is=6a234b87&hm=75a54eb9e2e3df242befdbd7dbbac68da0765f466ade6ac56431821d83bffee3&"
+    },
+
+    {
+      "title": "Song Title",
+      "artist": "Artist Name",
+      "cover": "Cover Url",
+      "src": "Your Video Url Mp4"
+    },
+
+    {
+      "title": "Song Title",
+      "artist": "Artist Name",
+      "cover": "Cover Url",
+      "src": "Your Video Url Mp4"
+    },
+
+    {
+      "title": "Song Title",
+      "artist": "Artist Name",
+      "cover": "Cover Url",
+      "src": "Your Video Url Mp4"
+    },
+
+    {
+      "title": "Song Title",
+      "artist": "Artist Name",
+      "cover": "Cover Url",
+      "src": "Your Video Url Mp4"
+    },
+
+    
+
+    {
+      "title": "Song Title",
+      "artist": "Artist Name",
+      "cover": "Cover Url",
+      "src": "Your Video Url Mp4"
+    }
   ]
 }
